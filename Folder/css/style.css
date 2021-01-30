@@ -1,0 +1,106 @@
+body{
+    font-family: 'Yusei Magic', sans-serif !important;
+    box-sizing: border-box;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    background-image: radial-gradient(rgb(238, 238, 130),lightblue);
+}
+
+
+.navbar{
+    background-color: rgb(93 89 89) !important;
+    width: 100% !important;
+}
+.navbar-brand,.nav-link{
+    transition: 0.4s all;
+}
+
+.nav-link:hover,.navbar-brand:hover{
+    
+   color: burlywood !important;
+  
+}
+
+@media screen and (max-width:992px){
+   .nav-item{
+       margin: 0px auto;
+   }
+   .n-btn{
+       
+       display: block;
+       width: 50%;
+       margin: 0px auto;
+       
+       margin-bottom: 010px;
+   }
+}
+.w{
+    width: 95%;
+    margin: 0px auto;
+    flex-wrap: wrap;
+    border: 5px dotted rgb(235, 127, 145);
+    border-bottom-color: mediumseagreen ;
+    border-radius: 40px;
+    border-right-color: yellowgreen;
+    border-left-color: lightseagreen;
+    
+  
+}
+.divideer{
+    border-top: 1px dotted black;
+}
+.logo{
+    height: 300px;
+width: 300px;
+border-radius: 50%;
+}
+
+footer{
+    margin-bottom: 0px;
+    margin-left: 0px;
+  
+    
+}
+#agencies{
+    border-radius: 0px;
+ 
+    
+}
+.footer{
+    margin-bottom: 0px !important;
+    width: 100% !important;
+    margin-left: 0px;
+
+} 
+a{
+    text-decoration: none;
+}
+@media (min-width:200px) and (max-width:500px){
+    body{
+        background-image: gold;
+    }
+}
+h5#center_{
+    margin: 10px;
+    
+}
+#input_search{
+  
+    margin-right: 10px;
+    border: 5px dashed rgb(235, 127, 145);
+    border-bottom-color: mediumseagreen ;
+    border-radius: 40px;
+    border-right-color: yellowgreen;
+    border-left-color: lightseagreen;
+    outline: none;
+    background-color: transparent;
+   font-size: 1.2rem;
+
+}
+#search_box{
+    justify-content: center !important;
+   
+    
+    padding: 5px 10px;
+   
+}

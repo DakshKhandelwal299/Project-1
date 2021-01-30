@@ -1,0 +1,47 @@
+{
+    "Service1":{
+        "image": "Images/v.jpg",
+        "name":"Vaccine-1",
+        "cost": "Free"
+        
+    },
+    "Vaccine2":{
+        "image": "Images/v.jpg",
+        "name":"Vaccine-2",
+        "cost": "Free"
+        
+    },
+    "Vaccine3":{
+        "image": "Images/v.jpg",
+        "name":"Vaccine-3",
+        "cost": "Free"
+        
+    },
+    "Vaccine4":{
+        "image": "Images/v.jpg",
+        "name":"Vaccine-4",
+        "cost": "Free"
+        
+    },
+    "Vaccine5":{
+        "image": "Images/v.jpg",
+        "name":"Vaccine-5",
+        "cost": "Free"
+        
+    },
+    "Vaccine6":{
+        "image": "Images/v.jpg",
+        "name":"Vaccine-6",
+        "cost": "Free"
+        
+    }
+    
+    
+    
+}
+
+
+       
+
+
+

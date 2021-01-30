@@ -1,0 +1,51 @@
+{
+    "Service1":{
+        "image": "Images/batter-1.jpg",
+        "name":"Vaccines",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates, ab?"
+        
+    },
+    "Service2":{
+        "image": "Images/ls.jpg",
+        "name":"Life Saving-Drugs",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates, ab?"
+        
+    },
+    "Service3":{
+        "image": "Images/vaccine.jpg",
+        "name":"Anti-Posison",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates, ab?"
+        
+    },
+    "Service4":{
+        "image": "Images/Cancer.jpg",
+        "name":"Medicines For Cancer",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates, ab?"
+        
+    },
+    "Service5":{
+        "image": "Images/Delivery.jpg",
+        "name":"Delivery All Over Rajasthan",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates, ab?"
+        
+    },
+    "Service6":{
+        "image": "Images/best.jpg",
+        "name":"Best Wholsale Medical Shop In Kota",
+        "desc": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates, ab?"
+        
+    }
+    
+    
+    
+}
+
+
+       
+
+
+
+
+
+
+
